@@ -1,4 +1,4 @@
 <script type="text/javascript">
-var pics = document.querySelectorAll(".parallax-pic img");
-new simpleParallax(pics);
+var images = document.querySelectorAll('.parallax-pic img');
+new simpleParallax(images);
 </script>
